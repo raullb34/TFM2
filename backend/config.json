@@ -1,0 +1,7 @@
+{
+    "port": 3000,
+    "baseRoute": "/factchecker/v1",
+    "api_python": "http://localhost:5000/factchecker/v1/predict-fake-news/predicts"
+}
+
+

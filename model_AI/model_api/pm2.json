@@ -1,0 +1,11 @@
+{
+  "apps" : [
+    {
+      "name": "prediction-api",
+      "interpreter": "/bin/bash",
+      "script": "launch.bash",
+      "out_file": "/var/log/prediction-api.log",
+      "error_file": "/var/log/prediction-api.err"
+    }
+  ]
+}
